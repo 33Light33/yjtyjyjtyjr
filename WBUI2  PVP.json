@@ -1,0 +1,61 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 120,
+            "IconURL": "https://i.imgur.com/AV3P8FY.jpg",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 2,
+                    "buttontext": "<TextStyle.Red> Welcome </>",
+                    "title1": "<TextStyle.Blue> Welcome On Light's servers </>",
+				    "title2": "<TextStyle.Blue> Settings </>",
+                    "text1": "Hi, all Community has been a close-knit community of gamers since January 2016. 1 Owner 4 Admins to help you ingame and on discord. System ticket on discord.\n\n\n\n          1. F1 to open this menu\n\n          2.F2 For shop & Kits, you have 3 kits starter in loot box\n\n          3.Dont forget to read the rules\n\n          4.Link Donate if you want support Light's servers and win points\n\n          5.Shift+F8 To find Wild or Tamed Dinos",
+				    "text2": "          ● XP: x1000, Harvest: x1000, Taming: x1000\n\n          ● Breed x100, Gestation: x100, Egg Hatch: x100\n\n          ● Player Level: 135\n\n          ● Level Wild 200 - After Tame 300 - After LVL up 388",
+                    "imageurl": "https://images5.alphacoders.com/740/740577.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red> Rules </>",
+                    "title1": "<TextStyle.Blue> Rules </>",
+                    "text1": "\n\n\n\n          1. Do not undermesh, glitch, exploit, insults, racism, abuse or cheat\n\n          2. You are not allowed to spam foundations to excess. (This applies to all structures)\n\n          3. Forbidden to build or block artefact caves (for PVE servers). Rip all your structures !!!",
+                    "imageurl": "https://i.imgur.com/YqOg6z4.jpg"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red> Donation </>",
+                    "title1": "<TextStyle.Blue> Donation </>",
+                    "text1": "\n\n\n\n After a donate do a ticket on discord  with a screenshot of the donation. Indicate the server for which you wish to earn points.",
+                    "imageurl": "https://i.imgur.com/zDVrnF1.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "<TextStyle.Violet> Discord </>",
+                    "url": "https://discord.gg/DHhKQps"
+                }
+            },
+            {
+                "link2": {
+                    "text": "<TextStyle.Yellow> Donate </>",
+                    "url": "https://light.tip4serv.com/"
+                }
+            }
+        ]
+    }
+}
